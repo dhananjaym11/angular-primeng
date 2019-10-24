@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.menu-dropdown {
+    .ui-dropdown {
+        min-width: 0;
+    }
+    .ui-dropdown-items-wrapper {
+        min-width: 180px;
+    }
+}
